@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\bin\Debug\Greeter.exe.config
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\bin\Debug\Greeter.exe
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\bin\Debug\Greeter.pdb
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\obj\Debug\Greeter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\obj\Debug\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\obj\Debug\Greeter.exe
+C:\Users\Lenovo\Desktop\Labs\Lab02\Greeter\Greeter\obj\Debug\Greeter.pdb
